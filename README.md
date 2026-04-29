@@ -2,24 +2,22 @@
 <h1 align="center">Hi 👋, I'm Omais Javeed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Laravel+Developer;Full+Stack+Engineer;API+%26+Payment+Integration+Expert;4%2B+Years+of+Experience&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+Specialist;API+%26+Payment+Integration+Expert;4%2B+Years+Professional+Experience;Docker+%26+DevOps+Enthusiast&center=true&width=700&height=50">
 </p>
 
 ---
 
 ## 💼 Professional Summary
 
-Experienced **Full Stack Developer** with **4+ years of hands-on experience**, specializing in **Laravel development** and scalable backend systems.
+Experienced **Full Stack Developer** with **4+ years of professional experience** in designing, developing, and deploying scalable web applications.
 
-Strong expertise in:
-- Building secure & scalable web applications  
-- RESTful API development & integrations  
-- Payment gateway integrations  
-- Backend architecture & performance optimization  
+Specialized in **Laravel ecosystem**, with strong expertise in backend architecture, API development, payment integrations, and modern deployment workflows.
+
+Focused on building **secure, optimized, and production-ready systems**.
 
 ---
 
-## 🛠️ Core Technologies
+## 🛠️ Tech Stack
 
 ### 🚀 Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4)
@@ -30,18 +28,30 @@ Strong expertise in:
 ### 🎨 Frontend
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
+![SCSS](https://img.shields.io/badge/SCSS-pink)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD)
 
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1)
+![SQL](https://img.shields.io/badge/SQL-gray)
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5)
+![Git](https://img.shields.io/badge/Git-black)
+
 ---
 
-## 🔥 Expertise
+## 🔥 Core Expertise
 
-- ✅ Laravel Application Development (Advanced)  
-- ✅ REST APIs & Third-party Integrations  
+- ✅ Full Stack Web Development  
+- ✅ Laravel Application Architecture  
+- ✅ RESTful API Development & Integration  
 - ✅ Payment Gateway Integration (Stripe, PayPal, etc.)  
 - ✅ Authentication Systems (JWT, OAuth)  
 - ✅ Database Design & Optimization  
+- ✅ Docker-based Deployment  
 - ✅ Performance Tuning & Debugging  
 
 ---
@@ -64,7 +74,14 @@ Strong expertise in:
 
 ---
 
-## 📫 Contact
+## 🌐 Portfolio
 
-- 📧 Email: yourmail@gmail.com  
-- 🌐 Portfolio: https://yourwebsite.com  
+🔗 https://omais-portfolio.netlify.app/
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: omaisjaveed7@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://pk.linkedin.com/in/omais-javeed-05401021a)
+- 🌐 Portfolio: https://omais-portfolio.netlify.app/
