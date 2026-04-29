@@ -71,6 +71,5 @@ Focused on building **secure, optimized, and production-ready systems**.
 ## 🌐 Connect With Me
 
 - 📧 Email: omaisjaveed7@gmail.com  
-- 🌐 Portfolio: https://omais-portfolio.netlify.app/
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://pk.linkedin.com/in/omais-javeed-05401021a)
