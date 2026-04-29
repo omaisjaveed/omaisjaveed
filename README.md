@@ -1,36 +1,48 @@
-## Hi there 👋
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Omais Javeed</h1>
 
-<!--
-**omaisjaveed/omaisjaveed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:<!-- HEADER GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Omais</h1>
-
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;React+Learner;AI+Explorer;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Laravel+Developer;Full+Stack+Engineer;API+%26+Payment+Integration+Expert;4%2B+Years+of+Experience&center=true&width=600&height=50">
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on React & Node.js  
-- 🌱 I’m learning AI & Backend Development  
-- 💬 Ask me about JavaScript, React  
-- ⚡ Fun fact: I love turning coffee into code ☕
+## 💼 Professional Summary
+
+Experienced **Full Stack Developer** with **4+ years of hands-on experience**, specializing in **Laravel development** and scalable backend systems.
+
+Strong expertise in:
+- Building secure & scalable web applications  
+- RESTful API development & integrations  
+- Payment gateway integrations  
+- Backend architecture & performance optimization  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Technologies
+
+### 🚀 Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Python](https://img.shields.io/badge/Python-blue)
+
+### 🎨 Frontend
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![React](https://img.shields.io/badge/React-61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-green)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD)
+
+---
+
+## 🔥 Expertise
+
+- ✅ Laravel Application Development (Advanced)  
+- ✅ REST APIs & Third-party Integrations  
+- ✅ Payment Gateway Integration (Stripe, PayPal, etc.)  
+- ✅ Authentication Systems (JWT, OAuth)  
+- ✅ Database Design & Optimization  
+- ✅ Performance Tuning & Debugging  
 
 ---
 
@@ -45,23 +57,14 @@ Here are some ideas to get you started:<!-- HEADER GIF -->
 
 ---
 
-## 📈 Contribution Graph (Snake Animation 🐍)
+## 📈 Contribution Graph
 <p align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📫 Contact Me
-- Email: yourmail@gmail.com  
-- Portfolio: https://yourwebsite.com  
+## 📫 Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: yourmail@gmail.com  
+- 🌐 Portfolio: https://yourwebsite.com  
