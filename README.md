@@ -56,6 +56,11 @@ Focused on building **secure, optimized, and production-ready systems**.
 
 ---
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ## 🌐 Portfolio
 
