@@ -11,7 +11,7 @@
 
 Experienced **Full Stack Developer** with **4+ years of professional experience** in designing, developing, and deploying scalable web applications.
 
-Specialized in **Laravel ecosystem**, with strong expertise in backend architecture, API development, payment integrations, and modern deployment workflows.
+I specialize in Laravel, Node.js, PHP, JavaScript, WordPress, Docker, and Kubernetes, creating modern solutions optimized for performance and deployment.
 
 Focused on building **secure, optimized, and production-ready systems**.
 
